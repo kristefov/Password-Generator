@@ -31,7 +31,7 @@ function generatePassword() {
   // Ask the user if they want to include special characters
   const specialPrompt = confirm("Click OK to include special characters");
 
-  if(!lowerPrompt || !upperPrompt || !numbersPrompt || !specialPrompt) {
+  if(!lowerPrompt && !upperPrompt && !numbersPrompt && !specialPrompt) {
     alert("You must choose at least one characteristic")
     return 
   }
