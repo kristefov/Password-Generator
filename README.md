@@ -1,4 +1,4 @@
-# Pasword Generate
+# Pasword Generator
 This website is designed to help you create strong and secure passwords for all of your online accounts. 
 With the Password Generator app, you can easily generate unique and complex passwords that are nearly impossible to crack.
 To use the website, simply open it and select the desired password length and complexity level. 
