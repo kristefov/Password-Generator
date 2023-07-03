@@ -23,7 +23,7 @@ With the Password Generator Website, you can create passwords that are virtually
 
 ## Link to website
 
-Link to the webpage - https://kristiyantefov.github.io/Password-Generator/
+https://kristiyantefov.github.io/Password-Generator/
 
 ## Link to repo
 
