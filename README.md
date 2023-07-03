@@ -10,6 +10,15 @@ With the Password Generator Website, you can create passwords that are virtually
 ## Link
 Link to the webpage - https://kristiyantefov.github.io/Password-Generator/
 
+## Link to repo
+
+https://github.com/kristiyantefov/Password-Generator/
+
+## Authors
+
+- [GitHub - Kristiyan Tefov](https://github.com/kristiyantefov)
+
+
 
 ## Mock-Up
 
