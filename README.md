@@ -23,15 +23,15 @@ With the Password Generator Website, you can create passwords that are virtually
 
 ## Link to website
 
-https://kristiyantefov.github.io/Password-Generator/
+https://kristefov.github.io/Password-Generator/
 
 ## Link to repo
 
-https://github.com/kristiyantefov/Password-Generator/
+https://github.com/kristefov/Password-Generator/
 
 ## Authors
 
-- [GitHub - Kristiyan Tefov](https://github.com/kristiyantefov)
+- [GitHub - Kris](https://github.com/kristefov)
 
 
 
